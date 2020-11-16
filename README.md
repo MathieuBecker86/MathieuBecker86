@@ -19,6 +19,10 @@ I am looking for new opportunities as a PHP / Symfony oriented Junior Web Develo
 
 - 2020 :  Wild Code School in Strasbourg
 
+## Diplômes
+
+* 
+
 ## Professionnal skills  
   
 |Frontend     |Backend  |Project management   |Language              |  
@@ -26,7 +30,7 @@ I am looking for new opportunities as a PHP / Symfony oriented Junior Web Develo
 |HTML         |PHP      |agile method         |French - bilingual.   |  
 |CSS          |MySQL    |SCRUM                |English - professional|
 |Bootstrap    |Composer |Github/Git           |German - notions      |  
-|Twig         |Symfony  |Wireframe            |.                     |  
+|Twig         |Symfony  |Wireframe            |                     |  
   
 ## Diplômes
 
@@ -36,7 +40,7 @@ en cours
 
  E-mail : mathieubecker86@gmail.com
  
- [Linkedin](https://www.linkedin.com/in/mathieu-becker86/)
+ You are welcome on my [Linkedin](https://www.linkedin.com/in/mathieu-becker86/)
  
  
 
