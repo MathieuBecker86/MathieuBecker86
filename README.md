@@ -1,4 +1,4 @@
-## **Junior Web Developer**  
+## **Junior Web Developer **  
   
   
 ### _Resume_ 
@@ -41,19 +41,21 @@ Achievements of 2 client projects: :
 
 ### _Professionnal skills_  
   
-|Frontend     |Backend  |Project management   |Language              |  
-|--           |--       |--                   |--                    |  
-|HTML         |PHP      |agile method         |French - bilingual.   |  
-|CSS          |MySQL    |SCRUM                |English - professional|
-|Bootstrap    |Composer |Github/Git           |German - notions      |  
-|Twig         |Symfony  |Wireframe            |                      |  
+|Frontend     |Backend  |Project management   |Language                 |  
+|--           |--       |--                   |--                       |  
+|HTML         |PHP      |agile method         |🇫🇷 French - bilingual.   |  
+|CSS          |MySQL    |SCRUM                |🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - professional|
+|Bootstrap    |Composer |Github/Git           |🇩🇪 German - notions      |  
+|Twig         |Symfony  |Wireframe            |                         |  
   
 
-### _Contacts_
+### 📬 _Contacts_
 
- E-mail : mathieubecker86@gmail.com
+ 📧 E-mail : mathieubecker86@gmail.com
  
- You are welcome on my [Linkedin](https://www.linkedin.com/in/mathieu-becker86/)
+ 📱 +33631324635
+ 
+  You are welcome on my [Linkedin](https://www.linkedin.com/in/mathieu-becker86/)
  
  
 
