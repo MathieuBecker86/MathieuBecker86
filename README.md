@@ -11,17 +11,17 @@
    
 -  
     
-  Compétences : en cours  
+    
   
-## Formation  
+### Formation  
 
-- 2020 :  Wild Code School in Strasbourg
-
-
+* 2020 :  Student Web Developer at Wild Code School in Strasbourg
 
 ### Diplômes
 
-* 
+* 2020 : I am preparing for the professional title of web and mobile web developer
+
+* 2004 : BAC STT Commercial action in René Cassin High School
 
 ### Professionnal skills  
   
