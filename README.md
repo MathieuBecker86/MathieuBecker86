@@ -19,16 +19,16 @@
 
 Réalisations de 2 projets client :
 
-Projet 1
+##### Projet 1
 -------
-Réalisation d'un CV d'un personnage de fiction adapté au format responsive et fonctionnel.
+* Réalisation d'un CV d'un personnage de fiction adapté au format responsive et fonctionnel.
 Découverte de la méthode agile, de Git et de PDO.
 Temps imparti : 2 semaines.
 Travail en équipe composé de 5 wilders.
 
-Projet 2
+##### Projet 2
 -------
-Réalisation d'un site pour un chef à domicile (Stras'Cook) qui se spécialise sur des menus tendance et veux accroître sa notoriété sur Strasbourg.
+* Réalisation d'un site pour un chef à domicile (Stras'Cook) qui se spécialise sur des menus tendance et veux accroître sa notoriété sur Strasbourg.
 Approfondissement de la méthode agile, utilisation de Github et de l'architecture MVC avec composer et twig.
 Langages utilisés : PHP, HTML, CSS et Bootstrap.
 Temps imparti : 5 semaines.
