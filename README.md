@@ -1,7 +1,7 @@
-# **Junior Web Developer**  
+## **Junior Web Developer**  
   
 
-## _Resume_ 
+### _Resume_ 
   
 > After many years spent in the trade and transport industry, I decided to breathe new life into my career.    
 > Passionate about the web environment, I trained as an autodidact for 2 years before joining the Wild Code School in Strasbourg in September 2020.  
@@ -17,14 +17,14 @@ none
 
 Réalisations de 2 projets client :
 
-##### Projet 1
+#### Projet 1
 -------
 * Réalisation d'un CV d'un personnage de fiction adapté au format responsive et fonctionnel.
  * Découverte de la méthode agile, de Git et de PDO.
  * Temps imparti : 2 semaines.
  * Travail en équipe composé de 5 wilders.
 
-##### Projet 2
+#### Projet 2
 -------
 * Réalisation d'un site pour un chef à domicile (Stras'Cook) qui se spécialise sur des menus tendance et veux accroître sa notoriété sur Strasbourg.
  * Approfondissement de la méthode agile, utilisation de Github et de l'architecture MVC avec composer et twig.
@@ -49,7 +49,7 @@ Réalisations de 2 projets client :
 |Twig         |Symfony  |Wireframe            |                      |  
   
 
-### _Contact_
+### _Contacts_
 
  E-mail : mathieubecker86@gmail.com
  
