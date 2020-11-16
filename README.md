@@ -9,7 +9,7 @@
 
 ### _Experiences_
 
-none 
+_to come up..._
   
 ### _Formation_  
 
@@ -33,7 +33,7 @@ Achievements of 2 client projects: :
  * Teamwork composed of 3 wilders.
  * Lead Dev of the project.
 
-### _Diplômes_
+### 🎓_Diplômes_🎓
 
 * 2020 : I am preparing for the professional title of web and mobile web developer
 
