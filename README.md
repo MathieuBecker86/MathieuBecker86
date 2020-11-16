@@ -1,16 +1,44 @@
-### Hi there 👋
+# Junior Web Developer  
+  
 
-<!--
-**MathieuBecker86/MathieuBecker86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Resume 
+  
+After many years spent in the trade and transport industry, I decided to breathe new life into my career... 
+Passionate about the web environment, I trained as an autodidact for 2 years before joining the Wild Code School in Strasbourg in September 2020...
+I am looking for new opportunities as a PHP / Symfony oriented Junior Web Developer...
 
-Here are some ideas to get you started:
+## Experiences
+   
+- *Nom* - _Date_ - Poste  
+  Objectif : en cours  
+  Description en cours  
+    
+  Compétences : en cours  
+  
+## Formation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2020 :  Wild Code School in Strasbourg
+
+## Professionnal skills  
+  
+|Frontend     |Backend  |Project management   |Language              |  
+|--           |--       |--                   |--                    |  
+|HTML         |PHP      |agile method         |French - bilingual.   |  
+|CSS          |MySQL    |SCRUM                |English - professional|
+|Bootstrap    |Composer |Github/Git           |German - notions      |  
+|Twig         |Symfony  |Wireframe            |.                     |  
+  
+## Diplômes
+
+en cours
+
+## Contact
+
+ E-mail : mathieubecker86@gmail.com
+ 
+ [Linkedin](https://www.linkedin.com/in/mathieu-becker86/)
+ 
+ 
+
+
+
