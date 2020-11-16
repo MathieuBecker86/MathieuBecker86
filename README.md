@@ -1,7 +1,7 @@
-## Junior Web Developer  
+# Junior Web Developer  
   
 
-### Resume 
+## _Resume_ 
   
 > After many years spent in the trade and transport industry, I decided to breathe new life into my career.    
 > Passionate about the web environment, I trained as an autodidact for 2 years before joining the Wild Code School in Strasbourg in September 2020.  
