@@ -1,6 +1,6 @@
 ## **Junior Web Developer**  
   
-
+  
 ### _Resume_ 
   
 > After many years spent in the trade and transport industry, I decided to breathe new life into my career.    
@@ -15,23 +15,23 @@ none
 
 * 2020 :  Student Web Developer at Wild Code School in Strasbourg
 
-Réalisations de 2 projets client :
+Achievements of 2 client projects: :
 
 #### Projet 1
 -------
-* Réalisation d'un CV d'un personnage de fiction adapté au format responsive et fonctionnel.
- * Découverte de la méthode agile, de Git et de PDO.
- * Temps imparti : 2 semaines.
- * Travail en équipe composé de 5 wilders.
+* Production of a CV of a fictional character adapted to the responsive and functional format.
+ * Discovery of the agile method, Git and PDO.
+ * Time limit: 2 weeks.
+ * Teamwork composed of 5 wilders.
 
 #### Projet 2
 -------
-* Réalisation d'un site pour un chef à domicile (Stras'Cook) qui se spécialise sur des menus tendance et veux accroître sa notoriété sur Strasbourg.
- * Approfondissement de la méthode agile, utilisation de Github et de l'architecture MVC avec composer et twig.
- * Langages utilisés : PHP, HTML, CSS et Bootstrap.
+* Creation of a site for a home chef (Stras'Cook) who specializes in trendy menus and wants to increase his reputation in Strasbourg.
+ * Deepening of the agile method, use of Github and MVC architecture with composer and twig.
+ * Languages : PHP, HTML, CSS and Bootstrap.
  * Temps imparti : 5 semaines.
- * Travail en équipe composé de 3 wilders.
- * Lead Dev du projet.
+ * Teamwork composed of 3 wilders.
+ * Lead Dev of the project.
 
 ### _Diplômes_
 
