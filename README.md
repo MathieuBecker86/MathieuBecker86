@@ -1,4 +1,4 @@
-## **Junior Web Developer **  
+## **Junior Web Developer**  
   
   
 ### _Resume_ 
@@ -53,7 +53,7 @@ Achievements of 2 client projects: :
 
  📧 E-mail : mathieubecker86@gmail.com
  
- 📱 +33631324635
+ 📱 06.31.32.46.35
  
   You are welcome on my [Linkedin](https://www.linkedin.com/in/mathieu-becker86/)
  
