@@ -17,14 +17,14 @@ none
 
 Achievements of 2 client projects: :
 
-#### Projet 1
+#### Project 1
 -------
 * Production of a CV of a fictional character adapted to the responsive and functional format.
  * Discovery of the agile method, Git and PDO.
  * Time limit: 2 weeks.
  * Teamwork composed of 5 wilders.
 
-#### Projet 2
+#### Project 2
 -------
 * Creation of a site for a home chef (Stras'Cook) who specializes in trendy menus and wants to increase his reputation in Strasbourg.
  * Deepening of the agile method, use of Github and MVC architecture with composer and twig.
