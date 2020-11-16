@@ -1,4 +1,4 @@
-# Junior Web Developer  
+# **Junior Web Developer**  
   
 
 ## _Resume_ 
@@ -7,11 +7,11 @@
 > Passionate about the web environment, I trained as an autodidact for 2 years before joining the Wild Code School in Strasbourg in September 2020.  
 > I am looking for new opportunities as a PHP / Symfony oriented Junior Web Developer.
 
-### Experiences
+### _Experiences_
 
 none 
   
-### Formation  
+### _Formation_  
 
 * 2020 :  Student Web Developer at Wild Code School in Strasbourg
 
@@ -33,13 +33,13 @@ Réalisations de 2 projets client :
  * Travail en équipe composé de 3 wilders.
  * Lead Dev du projet.
 
-### Diplômes
+### _Diplômes_
 
 * 2020 : I am preparing for the professional title of web and mobile web developer
 
 * 2004 : BAC STT Commercial action in René Cassin High School
 
-### Professionnal skills  
+### _Professionnal skills_  
   
 |Frontend     |Backend  |Project management   |Language              |  
 |--           |--       |--                   |--                    |  
@@ -49,7 +49,7 @@ Réalisations de 2 projets client :
 |Twig         |Symfony  |Wireframe            |                      |  
   
 
-### Contact
+### _Contact_
 
  E-mail : mathieubecker86@gmail.com
  
