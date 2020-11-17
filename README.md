@@ -7,7 +7,7 @@
 > Passionate about the web environment, I trained as an autodidact for 2 years before joining the Wild Code School in Strasbourg in September 2020.  
 > I am looking for new opportunities as a PHP / Symfony oriented Junior Web Developer.
 
-### _Experiences_ 
+### _Experiences_  
 
 _to come up..._
   
@@ -49,13 +49,13 @@ Achievements of 2 client projects: :
 |Twig         |Symfony  |Wireframe            |                         |  
   
 
-### 📬 _Contacts_ 📬 
+### _Contacts_ 📬 
 
  📧 E-mail : mathieubecker86@gmail.com
  
  📱 06.31.32.46.35
  
-  You are welcome on my [Linkedin](https://www.linkedin.com/in/mathieu-becker86/)
+ 👉🏼 Welcome on my [Linkedin](https://www.linkedin.com/in/mathieu-becker86/)
  
  
 
