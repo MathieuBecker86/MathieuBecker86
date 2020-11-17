@@ -15,7 +15,7 @@ _to come up..._
 
 * 2020 :  Student Web Developer at Wild Code School in Strasbourg
 
-Achievements of 2 client projects: :
+Production of 2 client projects: :
 
 #### Project 1
 -------
@@ -27,7 +27,7 @@ Achievements of 2 client projects: :
 #### Project 2
 -------
 * Creation of a site for a home chef (Stras'Cook) who specializes in trendy menus and wants to increase his reputation in Strasbourg.
- * Deepening of the agile method, use of Github and MVC architecture with composer and twig.
+  * Deepening of the agile method, use of Github and MVC architecture with composer and twig.
  * Languages : PHP, HTML, CSS and Bootstrap.
  * Temps imparti : 5 semaines.
  * Teamwork composed of 3 wilders.
