@@ -7,7 +7,7 @@
 > Passionate about the web environment, I trained as an autodidact for 2 years before joining the Wild Code School in Strasbourg in September 2020.  
 > I am looking for new opportunities as a PHP / Symfony oriented Junior Web Developer.
 
-### _Experiences_  
+### _Experiences_ 💥 
 
 _to come up..._
   
@@ -20,18 +20,18 @@ Production of 2 client projects: :
 #### Project 1
 -------
 * Production of a CV of a fictional character adapted to the responsive and functional format.
- * Discovery of the agile method, Git and PDO.
- * Time limit: 2 weeks.
- * Teamwork composed of 5 wilders.
+  * Discovery of the agile method, Git and PDO.
+  * Time limit: 2 weeks.
+  * Teamwork composed of 5 wilders.
 
 #### Project 2
 -------
 * Creation of a site for a home chef (Stras'Cook) who specializes in trendy menus and wants to increase his reputation in Strasbourg.
   * Deepening of the agile method, use of Github and MVC architecture with composer and twig.
- * Languages : PHP, HTML, CSS and Bootstrap.
- * Temps imparti : 5 semaines.
- * Teamwork composed of 3 wilders.
- * Lead Dev of the project.
+  * Languages : PHP, HTML, CSS and Bootstrap.
+  * Temps imparti : 5 semaines.
+  * Teamwork composed of 3 wilders.
+  * Lead Dev of the project.
 
 ### _Diplômes_ 🎓
 
